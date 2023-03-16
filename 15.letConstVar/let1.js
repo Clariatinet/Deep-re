@@ -11,11 +11,3 @@ let foo = 1; // 전역 변수
 }
 console.log(foo);
 // console.log(pee);
-
-function bar() {
-  const x = 3;
-  return x;
-}
-
-const apple = bar();
-console.log(apple);
