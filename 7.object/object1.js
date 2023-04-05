@@ -8,5 +8,5 @@ const person = {
 console.log(typeof person); // object
 console.log(person); // {name: "Lee", sayHello: [Function: sayHello]}
 
-const empty = { person };
+const empty = {};
 console.log(typeof empty);
