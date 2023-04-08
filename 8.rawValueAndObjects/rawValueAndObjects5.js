@@ -1,0 +1,10 @@
+const person1 = {
+  name: 'Lee',
+};
+
+const person2 = {
+  name: 'Lee',
+};
+
+console.log(person1 === person2); // false
+console.log(person1.name === person2.name); // true
