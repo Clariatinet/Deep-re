@@ -17,3 +17,5 @@ function Circle(radius) {
 // 생성자 함수로서 호출된다.
 const circle = Circle(5);
 console.log(circle.getDiameter());
+console.log(circle.getDiameter());
+console.log(circle.getDiameter());
