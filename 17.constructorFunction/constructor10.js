@@ -23,3 +23,4 @@ console.log(circle.getDiameter());
 console.log(circle.getDiameter());
 console.log(circle.getDiameter());
 console.log(circle.getDiameter());
+console.log(circle.getDiameter());
