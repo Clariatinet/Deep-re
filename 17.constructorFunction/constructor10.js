@@ -18,3 +18,5 @@ function Circle(radius) {
 const circle = Circle(5);
 console.log(circle.getDiameter());
 console.log(circle.getDiameter());
+console.log(circle.getDiameter());
+console.log(circle.getDiameter());
